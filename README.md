@@ -1,1 +1,1 @@
-This repository is for the operation valification of git init. 
+This repository is for the operation verification of git init. 
